@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu mirada me delata siempre
+
+This log tracks the cryptographic history and versioning for the song **Tu mirada me delata siempre** (tu-mirada-me-delata-siempre).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T11:16:02.606334 | `v1` | `0a0b7ce19680835cf14ea25712fddca35d26f70d12e0dbc9f9d8a77c0bd058e7` | `170a39a7c20d8e6596a43103fc956e287b92853b462844f5c2d16c53801313dd` | `2026-06-15_tu-mirada-me-delata-siempre-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
